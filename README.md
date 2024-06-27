@@ -1,7 +1,9 @@
 # LLMZoomcamp
 
-Deploying LLM in production
+Deploying LLM and RAGs in production
 
+
+Looking forward, the future of generative AI lies in creatively chaining all sorts of LLMs and knowledge bases together to create new kinds of assistants that deliver authoritative results users can verify.
 
 ## Week 0 - Build a Q&A system for course-related FAQ documents
 
